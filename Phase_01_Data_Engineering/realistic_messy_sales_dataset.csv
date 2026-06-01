@@ -1,0 +1,111 @@
+order_id,customer_name,email,phone,city,department,product,quantity,unit_price,payment_method,order_date,delivery_days,customer_rating,discount_percent,is_returned,revenue
+1033,hello its,abrown@yahoo.com,(185)699-3351,Pune,IT,Mouse,4,21831.81,Card,12/25/2024,11,2,10,Yes,87327.24
+1028,,wmoore@yahoo.com,001-263-493-4148x4129,Bangalore,IT,Monitor,2,38033.33,UPI,2/10/2026,3,2,15,Yes,76066.66
+1005,,brandonweeks@yahoo.com,12345,Pune,Finance,Keyboard,2,48682.67,Net Banking,10/22/2024,2,5,10,No,97365.34
+1084,hi sir,garciamaria@brown.net,001-799-159-1810x6176,Mumbai,IT,Laptop,8,5314.93,Cash,10/29/2025,6,1,15,Yes,42519.44
+1055,,kparker@keith-gould.org,463.337.7771,,IT,Tablet,6,42733.94,UPI,3/20/2026,5,4,5,No,256403.64
+1088,Pamela Rivera,,4828709321,Bangalore,HR,Mouse,10,19082,Cash,2/21/2026,7,5,10,No,190820
+1036,Holly Rodriguez,emmanicholson@hotmail.com,001-057-586-0882x380,Bangalore,Finance,Keyboard,5,30972.21,UPI,12/7/2024,11,5,10,Yes,154861.05
+1065,Gina Thomas,wallacerobert@gmail.com,809-144-6852x31933,Mumbai,Operations,Mobile,2,14905.53,Cash,10/14/2024,2,,10,Yes,29811.06
+1030,Pamela Rich,xingram@kennedy-ochoa.info,-10231,Pune,Operations,Tablet,4,37591.55,Net Banking,11/14/2024,2,1,15,Yes,150366.2
+1049,Suzanne Young,brad79@yahoo.com,9636694122,Mumbai,IT,Monitor,9,13319.29,UPI,11/7/2025,11,1,20,No,119873.61
+1009,Lisa Bean,vflores@adams.com,+1-407-846-8920x179,Chennai,Marketing,Tablet,10,37698.93,Cash,1/24/2026,8,,15,No,376989.3
+1089,Sara Carney,smithgeorge@martin.com,313.059.0772,Mumbai,HR,Keyboard,9,25195.97,UPI,5/29/2024,10,1,15,No,226763.73
+1081,  ram kumar ,sdavis@wright.com,+1-721-943-4254x3210,Chennai,Sales,Mouse,5,12999.7,Card,5/28/2026,12,1,20,Yes,64998.5
+1077,Lindsey Johnson,gzhang@yahoo.com,+1-689-698-5152x650,Hyderabad,Sales,Laptop,4,48133.64,UPI,3/17/2026,13,3,20,Yes,192534.56
+1075,Monica Eaton,lori82@gross-davenport.com,+1-321-614-5316x54356,Bangalore,Sales,Laptop,1,12218.15,UPI,4/25/2025,14,3,0,Yes,12218.15
+1024,Jeremy Marquez,lisachaney@harrison-baxter.biz,954.291.8512x25992,Bangalore,Operations,Monitor,5,36504.67,Cash,2/26/2025,2,2,10,Yes,182523.35
+1023,Thomas Johnson,ian05@yahoo.com,(111)937-5494,Chennai,HR,Monitor,6,11371.35,Cash,9/3/2024,6,4,10,No,68228.1
+1081,Paula Yu,goodmancathy@mercado.org,-10353,Mumbai,Sales,Laptop,10,14932.63,Net Banking,8/10/2025,8,3,5,Yes,149326.3
+1028,Kelly Clark,wmoore@yahoo.com,001-263-493-4148x4129,Bangalore,IT,Monitor,2,38033.33,UPI,2/10/2026,3,,15,Yes,76066.66
+1055,Martin Mcmillan,christopherhardy@kirby-dean.net,001-599-609-8291x056,Chennai,Operations,Tablet,10,16381.87,UPI,5/18/2026,12,3,20,No,163818.7
+1098,Brooke Downs,kimroberts@yahoo.com,+1-131-245-5505x923,Pune,HR,Laptop,5,22303.5,Net Banking,4/23/2025,1,3,20,Yes,111517.5
+1099,Robert Webster,hubbardkimberly@walters.net,+1-416-000-4426x86728,Delhi,Finance,Keyboard,3,46362.43,Card,5/11/2025,14,2,5,No,139087.29
+1072,Rachel Simon,crystal95@campos.com,+1-137-880-2850x0016,Delhi,Operations,Monitor,6,2406.3,Cash,8/27/2025,3,4,5,No,14437.8
+1008,William Smith,stewartmicheal@trevino.com,(428)068-1053x94572,Delhi,Sales,Mouse,4,20785,Card,4/8/2025,10,5,0,Yes,83140
+1059,Sherri Carter,oliverthomas@gmail.com,621.503.9394,Bangalore,Sales,Monitor,9,5797.53,UPI,4/30/2025,2,2,5,No,52177.77
+1017,Tiffany Griffin,tvelazquez@garrett.biz,(246)165-9199x4273,Hyderabad,Sales,Laptop,9,8616.95,Cash,2/1/2025,10,2,10,Yes,77552.55
+1091,Joseph Wang,rgates@jones.biz,934-625-0742,Pune,Finance,Monitor,7,12955.24,UPI,1/25/2025,15,1,15,Yes,90686.68
+1033,Terry Clark,kimberlybuckley@olson-lopez.com,324-347-0331x307,Pune,Sales,Mobile,4,9516.86,UPI,5/15/2025,3,1,15,No,38067.44
+1010,Sabrina Russo,,248.964.2897,Pune,Finance,Laptop,9,38525.89,Card,12/18/2025,11,4,20,Yes,346733.01
+1051,Christopher Clark,anne11@spencer-logan.biz,7069070694,Delhi,Sales,Tablet,5,11298.95,Cash,7/10/2024,8,4,15,Yes,56494.75
+1058,Joann Rojas,jacob00@wilson.org,405.223.9450x62856,Delhi,Marketing,Monitor,4,46171.54,Card,2/2/2025,14,1,10,No,184686.16
+1043,Kiara Edwards,moorebrett@gmail.com,974.140.5148x26147,Delhi,HR,Laptop,5,36576.5,Net Banking,3/19/2025,14,2,15,No,182882.5
+1018,Christopher Delacruz,,-9940,Hyderabad,Marketing,Mobile,9,27409.89,Net Banking,6/1/2025,15,5,15,No,246689.01
+1000,Robert Sanchez,vmcgee@hotmail.com,+1-823-392-8218x55576,Hyderabad,Marketing,Mouse,5,8917.52,Net Banking,3/23/2026,9,4,20,Yes,44587.6
+1016,Michael Carter,robertawilson@gmail.com,070-258-3320x0781,Delhi,IT,Laptop,7,30002.75,UPI,10/12/2024,2,4,5,No,210019.25
+1089,Diana Gordon,gilmorecharles@yahoo.com,1865821695,Mumbai,HR,Tablet,5,12296.36,Card,8/25/2025,6,1,20,Yes,61481.8
+1050,Jennifer Pace,walexander@yahoo.com,763.955.9489x9840,Bangalore,Operations,Mouse,5,23404,UPI,9/26/2025,1,4,20,Yes,117020
+1014,Leonard Smith,paulamurphy@yahoo.com,(965)257-4106,Hyderabad,Marketing,Keyboard,5,2874.6,Net Banking,4/22/2025,6,3,15,Yes,14373
+1073,Austin Mora,brady41@garcia-romero.net,574-335-0945, chennai ,Operations,Laptop,1,33401.9,Cash,9/26/2025,2,,0,No,33401.9
+1097,Rebecca Gonzalez,abigail10@ware-skinner.org,103-091-2100x737,Delhi,Finance,Monitor,1,47194.34,Cash,5/8/2025,13,4,15,Yes,47194.34
+1008,Brian Montgomery,donnaburgess@hotmail.com,533.118.2935,Delhi,Operations,Tablet,1,42629.21,Net Banking,10/22/2024,2,4,10,No,42629.21
+1042,Terri Campbell,loweamber@hotmail.com,575-195-8985,Hyderabad,Sales,Tablet,6,32432.61,Net Banking,12/29/2025,11,5,10,Yes,194595.66
+1016,Karen Thomas,meredith41@lane.com,384-068-1963x7550,Chennai,HR,Tablet,1,45047.31,Card,5/20/2025,11,2,0,No,45047.31
+1033,Kelly Le,johnnyfletcher@patterson-guerrero.com,001-484-638-1295,Delhi,IT,Monitor,4,46516.76,Card,6/9/2025,12,3,15,No,186067.04
+1051,Christopher Clark,anne11@spencer-logan.biz,7069070694,Delhi,Sales,Tablet,5,11298.95,Cash,7/10/2024,8,4,15,Yes,56494.75
+1014,Rachel Walters,triciajohnson@hotmail.com,(397)471-8775x02861,Chennai,Operations,Mobile,9,2765.38,Cash,5/12/2025,10,5,5,No,24888.42
+1071,Donna Carlson,nkemp@hotmail.com,588.555.4476x62004,Bangalore,Operations,Monitor,8,22960.55,UPI,2/20/2025,2,3,5,No,183684.4
+1068,Rose Williams,qrojas@castillo.com,(848)976-5730x81286,Pune,Marketing,Mobile,8,19593.32,Card,1/25/2025,11,3,0,Yes,156746.56
+1085,Mary Smith,gbrewer@lewis-baker.com,(210)079-7104x171,Mumbai,HR,Monitor,5,28166.21,Card,5/21/2026,7,4,5,No,140831.05
+1033,Teresa Wise,katherine20@hotmail.com,035-160-6965x38927,Hyderabad,HR,Keyboard,5,28233.76,Card,5/6/2026,2,2,15,No,141168.8
+1032,Jorge Smith,barbarabarber@miles.com,289.343.9212x6571,Mumbai,Sales,Laptop,7,25095.58,UPI,1/6/2025,3,2,20,No,175669.06
+1053,Joseph Scott,riverafaith@yahoo.com,001-039-388-6900x4069,Pune,IT,Keyboard,9,16502.12,Cash,4/13/2026,4,3,5,No,148519.08
+1035,Kaitlyn Moore,juliebarnes@byrd.com,(691)624-8160x1346,Pune,Finance,Mobile,9,7483.28,Net Banking,10/13/2024,4,4,15,Yes,67349.52
+1082,Sharon Johnson,myersbrett@yahoo.com,909.542.8635,Bangalore,Finance,Mouse,5,25934.73,Cash,2/28/2026,7,4,15,Yes,129673.65
+1016,Patricia Chapman,david14@yahoo.com,612-984-1511x4395,Delhi,IT,Tablet,2,43835.33,Net Banking,5/10/2025,2,5,15,Yes,87670.66
+1095,Joseph Wheeler,fboyd@anderson.com,-11659,Hyderabad,Sales,Laptop,10,24362.64,Card,10/26/2024,1,5,0,Yes,243626.4
+1004,Margaret Odom,pgilbert@farmer.com,(455)620-2410,Hyderabad,Finance,Tablet,2,11338.16,Cash,12/1/2024,4,4,15,No,22676.32
+1097,Rebecca Gonzalez,abigail10@ware-skinner.org,103-091-2100x737,Delhi,Finance,Monitor,1,47194.34,Cash,5/8/2025,13,4,15,Yes,47194.34
+1096,Ashley Parker,kingmarcia@lawson.info,+1-415-941-6277x630,Mumbai,IT,Mouse,9,21910.3,Net Banking,6/30/2024,15,,15,No,197192.7
+1064,Jose Navarro,schase@yahoo.com,(427)983-8639x428,Chennai,Operations,Tablet,9,30839.54,Card,12/14/2024,6,2,20,Yes,277555.86
+1088,Jacob Rowland,dperry@yahoo.com,268.718.8336,Delhi,Finance,Tablet,1,12342.34,Cash,1/20/2026,12,4,0,Yes,12342.34
+1054,Justin Sanchez,pattersonchristopher@hodges-powers.com,001-783-635-9619x03712,Pune,Operations,Keyboard,8,8585.04,Cash,7/20/2024,4,1,20,Yes,68680.32
+1019,Gene Mendez,wrong_email_format,427.662.5849x751,Bangalore,HR,Laptop,2,19616.44,Cash,8/21/2024,14,3,20,No,39232.88
+1056,Jenny Miller,walkercathy@hudson-douglas.com,-1892,Delhi,Finance,Laptop,4,12010.17,Cash,4/20/2025,1,5,20,Yes,48040.68
+1004,Bradley Bartlett,noah48@thomas.com,247.134.2255x580,Mumbai,Marketing,Mobile,8,18133.26,Card,2/11/2025,4,1,5,No,145066.08
+1084,Charles Hernandez,johall@welch-evans.com,364-245-9580x0749,Delhi,Finance,Monitor,1,10191.54,Cash,3/7/2025,10,4,15,Yes,10191.54
+1035,Robert Roberts,dannywilliams@wallace-lawrence.com,943-454-7768x53924,Mumbai,Operations,Tablet,3,19138.87,Card,8/24/2024,11,3,0,Yes,57416.61
+1042,Terri Campbell,loweamber@hotmail.com,575-195-8985,Hyderabad,Sales,Tablet,6,32432.61,Net Banking,12/29/2025,11,5,10,Yes,194595.66
+1042,Cory Cox,amyayala@yahoo.com,+1-444-193-4971x28747,Pune,IT,Monitor,6,31713.16,Net Banking,12/30/2025,14,5,0,Yes,190278.96
+1044,Katherine Henderson,xsmith@taylor-williams.com,833-125-3681,,IT,Keyboard,7,23311.89,Cash,11/11/2024,14,2,5,No,163183.23
+1062,Max Clark,michelle80@cruz.com,001-042-570-1055x641,Bangalore,HR,Monitor,8,2422.22,Cash,1/26/2025,11,4,5,No,19377.76
+1033,Jason Lewis,garyrobinson@cain.info,(517)028-1269x44055,Bangalore,Operations,Tablet,9,24745.25,Card,8/13/2025,5,4,0,No,222707.25
+1031,Elizabeth Reynolds,zmack@fleming-lee.com,-2374,Delhi,Finance,Keyboard,3,9329.2,UPI,1/30/2025,10,4,20,Yes,27987.6
+1025,Nicole Reed,heather39@reyes.com,342.771.5004x510,Bangalore,Sales,Laptop,4,49212.87,UPI,1/12/2026,8,4,20,Yes,196851.48
+1060,Christine Saunders,wcherry@hotmail.com,,Hyderabad,Finance,Tablet,6,33836.54,Card,11/5/2024,6,4,15,No,203019.24
+1089,Tommy Ray,jacksonshelby@yahoo.com,276-088-8342x311,Hyderabad,Operations,Keyboard,2,40015.13,UPI,2/20/2026,6,5,15,No,80030.26
+1059,Sherri Carter,,621.503.9394,Bangalore,Sales,Monitor,9,5797.53,UPI,4/30/2025,2,2,5,No,52177.77
+1060,Christine Saunders,wcherry@hotmail.com,298.845.1791x1348,Hyderabad,Finance,Tablet,6,33836.54,Card,11/5/2024,6,4,15,No,203019.24
+1049,Maria Gordon,millerpaige@jones-flowers.com,113-138-5053,Delhi,Marketing,Tablet,1,35730.48,UPI,11/4/2024,9,5,5,No,35730.48
+1031,Shelly Cox,matthew35@yahoo.com,2008937533,Bangalore,Sales,Keyboard,3,12688.7,Net Banking,4/26/2025,11,1,20,Yes,38066.1
+1022,Jill Waller,toddthompson@hotmail.com,511.893.1816,Pune,IT,Monitor,1,28312.88,UPI,8/9/2024,8,2,15,No,28312.88
+1092,Brooke Scott,julie69@yahoo.com,(375)355-0575,Bangalore,Finance,Mouse,3,4666.58,Cash,7/6/2024,6,5,15,Yes,13999.74
+1032,Aimee Anderson,michelle41@yahoo.com,001-030-531-8054,Chennai,Finance,Laptop,9,3552.19,Cash,2/22/2025,4,1,0,Yes,31969.71
+1056,Alexandria Miller,sarahalexander@rocha.com,563-043-1461x319,Hyderabad,IT,Monitor,5,28862.84,UPI,3/7/2025,10,1,5,Yes,144314.2
+1087,Jeremy Cross,jamesmartin@wilson.info,663-656-5985,Pune,HR,Keyboard,8,13304.94,UPI,9/30/2024,2,4,10,Yes,106439.52
+1065,Gina Thomas,wallacerobert@gmail.com,809-144-6852x31933,Mumbai,Operations,Mobile,2,14905.53,Cash,10/14/2024,2,2,10,Yes,29811.06
+1059,Jamie Mccarthy,copelandheidi@gmail.com,+1-191-289-8703x7787,Pune,HR,Tablet,3,30688.74,UPI,4/11/2026,13,2,10,Yes,92066.22
+1090,Stacey West,brittneymiller@hotmail.com,204-171-4853,Bangalore,Finance,Mobile,9,48308.21,Cash,12/23/2024,10,5,15,No,434773.89
+1089,Sara Carney,smithgeorge@martin.com,313.059.0772,Mumbai,HR,Keyboard,9,25195.97,UPI,5/29/2024,10,1,15,No,226763.73
+1003,Andrew Day,eddiekrause@bass.com,134-676-7138,Bangalore,Operations,Tablet,7,40309.52,Card,4/22/2025,5,2,0,No,282166.64
+1009,Anthony Jones,alvarezrichard@olson-garcia.biz,627-802-6419,Delhi,Marketing,Keyboard,5,7490.37,Cash,7/12/2024,15,1,5,No,37451.85
+1088,Mary Collier,charvey@andrews.com,7166278827,Hyderabad,Sales,Laptop,6,40011.03,Cash,12/1/2024,6,3,15,Yes,240066.18
+1075,RAM KUMAR,john94@jenkins.com,535-300-6702,Mumbai,Sales,Laptop,2,11713.26,UPI,10/6/2025,9,2,20,No,23426.52
+1008,Amber Miller,derekdaniels@gmail.com,,Mumbai,Finance,Tablet,9,23830.29,UPI,1/18/2026,4,4,15,Yes,214472.61
+1051,Jerry Vance,lware@banks.com,+1-373-631-1220x78143,Pune,HR,Laptop,4,10387.91,Net Banking,8/28/2024,3,4,5,No,41551.64
+1028,Ram Kumar,linda71@white-miller.biz,-4097,,IT,Tablet,1,38181.56,Card,10/24/2025,12,4,10,No,38181.56
+1062,Julie Goodwin,uwang@yahoo.com,001-673-253-9287,Mumbai,Marketing,Monitor,1,9067.22,UPI,5/11/2025,7,3,15,No,9067.22
+1090,Angel Sampson,solsen@hotmail.com,(093)333-8765x933,,HR,Keyboard,1,28060.32,UPI,7/8/2025,4,1,15,Yes,28060.32
+1063,Rebecca Gray,dakotamurphy@yahoo.com,979-054-5727,Delhi,Marketing,Mobile,8,32257.33,Net Banking,1/31/2026,5,1,15,No,258058.64
+1010,Jeffrey Beck,amyhall@brown-patel.com,363.475.6254x4699,Bangalore,Sales,Keyboard,7,30709.56,Card,12/19/2025,13,5,15,No,214966.92
+1026,Jessica Schmidt,egriffin@diaz.info,001-542-850-9652x7698,Hyderabad,IT,Mobile,5,22467.69,Net Banking,1/1/2026,2,1,20,Yes,112338.45
+1097,Paul Donovan,,(871)990-7533x7558,Bangalore,Finance,Keyboard,8,45887.57,Card,9/23/2024,10,4,15,Yes,367100.56
+1081,David Ramirez,sdavis@wright.com,+1-721-943-4254x3210,Chennai,Sales,Mouse,5,12999.7,Card,5/28/2026,12,1,20,Yes,64998.5
+1012,Christine Lewis,jasonhughes@buck-reed.biz,200-835-0429,Chennai,Operations,Monitor,6,21755.35,Net Banking,1/19/2025,14,1,0,Yes,130532.1
+1074,Leslie Lutz,melissahill@morris.com,,Chennai,HR,Keyboard,7,20436.07,Card,12/2/2025,2,5,5,Yes,143052.49
+1046,Samuel Rocha,thomas91@williams.com,,Bangalore,HR,Laptop,9,7202.57,UPI,9/19/2025,1,5,10,Yes,64823.13
+1076,Kara Ellison,jennifer11@mendoza.net,,Hyderabad,Finance,Laptop,2,46525.83,Cash,1/26/2026,4,1,5,Yes,93051.66
+1029,Michael Bartlett,michelletaylor@gmail.com,001-795-809-3459x141,Mumbai,Sales,Tablet,8,35556.17,Net Banking,1/20/2025,7,2,15,Yes,284449.36
+1030,Lisa Smith,joseph87@harris-blackwell.biz,664814182,,HR,Tablet,9,4948.31,Card,10/6/2025,4,4,5,Yes,44534.79
+1024,Jeremy Marquez,lisachaney@harrison-baxter.biz,954.291.8512x25992,Bangalore,Operations,Monitor,5,36504.67,Cash,2/26/2025,2,2,10,Yes,182523.35

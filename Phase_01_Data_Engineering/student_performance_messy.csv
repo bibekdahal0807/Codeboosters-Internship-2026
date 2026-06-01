@@ -1,0 +1,36 @@
+student_id,name,age,gender,department,semester,math_score,science_score,english_score,programming_score,attendance_percentage,city,admission_year
+1027.0,Gaurav Shukla,21.0,Male,Computer Science,2.0,84,79,75,87,87,Lucknow,2023
+1014.0,Kavya Nambiar,20.0,Female,Mechanical,2.0,74,78,82,51,91,Thrissur,2023
+1025.0,,19.0,Male,Computer Science,2.0,86,82,79,89,91,Kolkata,2023
+1022.0,Tanvi Mehta,19.0,Female,Computer Science,2.0,93,90,88,96,97,Surat,2023
+1016.0,Ritu Agarwal,20.0,Female,Electronics,2.0,87,83,86,69,93,Agra,2023
+1030.0,Akanksha Yadav,19.0,Female,Computer Science,2.0,91,93,87,94,95,Agra,2023
+1020.0,Nisha Kapoor,19.0,Female,Computer Science,2.0,79,84,81,83,89,Chandigarh,2023
+1013.0,Suresh Rao,21.0,,Computer Science,,83,86,77,88,88,Mysore,2023
+1009.0,Rahul Mishra,20.0,Male,Mechanical,2.0,62,71,58,45,68,Varanasi,2023
+1017.0,Manoj Pandey,21.0,,Civil,2.0,56,61,55,38,65,Patna,2023
+,Ananya Das,,Female,Computer Science,2.0,95,89,90,97,98,Kolkata,2023
+1018.0,Swati Kulkarni,19.0,Female,Computer Science,2.0,90,87,85,92,94,Nagpur,2023
+,  aarav sharma  ,19.0,  male  ,  computer science  ,2.0,85,78,72,91,92,  mumbai  ,2023
+99999.0,Arjun Nair,99999.0,Male,,99999.0,92,88,81,95,90,Kochi,2023
+1018.0,Swati Kulkarni,19.0,Female,Computer Science,2.0,90,87,85,92,94,Nagpur,2023
+1028.0,Sunita Pillai,19.0,Female,Civil,,60,65,68,39,73,Thiruvananthapuram,2023
+1006.0,Meera Joshi,20.0,Female,Electronics,2.0,58,66,70,52,72,Pune,2023
+1012.0,Pooja Gupta,19.0,Female,Civil,2.0,67,72,79,44,80,Jaipur,2023
+1002.0,NAN,20.0,FEMALE,NAN,2.0,76,82,88,79,87,AHMEDABAD,2023
+,Rohit Verma,19.0,Male,Nan,2.0,65,74,61,55,78,Delhi,2023
+1024.0,Preeti Saxena,,,Mechanical,2.0,77,81,76,53,86,Kanpur,2023
+-999.0,Sneha Reddy,-999.0,Female,Mechanical,-999.0,70,80,75,48,95,Hyderabad,2023
+1028.0,Sunita Pillai,19.0,Female,Civil,2.0,60,65,68,39,73,Thiruvananthapuram,2023
+1024.0,,20.0,Female,Mechanical,2.0,77,81,76,53,86,Kanpur,2023
+1016.0,Ritu Agarwal,20.0,Female,Electronics,2.0,87,83,86,69,93,Agra,2023
+1011.0,Vikram Iyer,20.0,Male,Electronics,2.0,80,75,68,72,83,Chennai,2023
+1023.0,Sanjay Dubey,21.0,Male,Civil,,61,66,59,42,70,Allahabad,2023
+1019.0,Deepak Chauhan,20.0,Male,Mechanical,2.0,68,73,62,49,77,Dehradun,2023
+1026.0,Rekha Nair,20.0,Female,Electronics,2.0,72,77,73,63,82,Kochi,2023
+1007.0,Kiran Kumar,21.0,Male,Civil,2.0,73,69,65,40,85,Bangalore,2023
+1021.0,Harish Pillai,20.0,Male,Electronics,2.0,64,70,67,58,74,Thiruvananthapuram,2023
+1009.0,Rahul Mishra,20.0,Male,Mechanical,2.0,62,71,58,45,68,Varanasi,2023
+1008.0,Divya Singh,19.0,Female,Computer Science,2.0,88,91,84,93,96,Lucknow,2023
+1015.0,Ajay Tiwari,19.0,Male,Computer Science,2.0,71,69,64,76,75,Bhopal,2023
+1029.0,Nitin Jain,20.0,Male,Mechanical,2.0,75,76,70,50,84,Indore,2023
